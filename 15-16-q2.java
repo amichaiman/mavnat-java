@@ -1,9 +1,3 @@
-public class Main {
-    public static void main(String[] args) {
-
-    }
-}
-
 class HashTableData{
     private String key;
     public HashTableData(String key){
